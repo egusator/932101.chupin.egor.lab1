@@ -1,0 +1,143 @@
+* {
+    font-family: Arial;
+    font-size:large;
+    color:white;
+}
+
+p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+header {
+    background-color: green;
+	text-align:center; 
+    height: 40px;
+}
+
+body {
+    font-size: 15px;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+
+main {
+    height: 690px;
+    width: 510px;
+    background-color: blue;
+    margin: 0 auto; 
+}
+
+ul {
+    padding-left: 35px;
+    margin-top: 5px;
+    margin-bottom: 18px;
+}
+
+li {
+    margin-left:5px;
+    margin-bottom: 9px;
+    font-size:large;
+}
+
+.main_content {
+	padding-top: 5px; 
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.hello {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 21px;
+}
+
+.main_content h2 {
+    word-spacing: 11px;
+    font-size: 28px;
+    margin-top: 10px;
+    margin-bottom: 5px;    
+}
+
+.main_content h3 {
+    font-size: 22px;
+    margin-top: 10px;
+    margin-bottom: 5px;    
+}
+
+
+aside {
+    float: right;
+}
+
+aside p {
+    float: right;
+}
+
+.header_text {
+	font-size: 18px;
+	font-family: "Courier New"; 
+}
+
+.footer_text {
+	font-size: 18px;
+}
+
+.shape {
+    width: 100px;
+    height: 100px;
+	border: 5px solid white;
+    border-radius: 20px 0 20px 0;
+    background-color: blue;
+    float: left;
+    margin: 0 20px 30px 0;
+}
+
+.value2 li{
+	color: aqua;
+	letter-spacing: 5px; 
+	word-spacing: 7px; 
+}
+
+.tsu_link {
+	text-align: center;
+}
+
+.tsu_link a{
+	color: red;
+}
+.underlined {
+	margin-bottom: 24px; 
+}
+table {
+    border: 1px solid silver;
+}
+
+td {
+    width:  48px;
+    height: 36px;
+	text-align:center;
+    vertical-align: bottom;
+    border: 1px solid silver;
+   
+}
+.image_like_button {
+	margin-top: 5px;
+}
+
+header div {
+	margin:auto 0; 
+	padding-top: 11px;
+}
+
+footer div {
+	margin:auto 0; 
+	padding-top: 5px;
+}
+footer { 	
+	text-align:center; 
+    background-color: green;
+    height: 40px;
+}
